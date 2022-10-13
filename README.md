@@ -1,4 +1,4 @@
 # csharp
 Estudo da linguagem de programação C#
 
-![alt](download.png)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
