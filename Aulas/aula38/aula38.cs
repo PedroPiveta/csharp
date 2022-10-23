@@ -12,7 +12,7 @@ class Derivada1:Base{
     }
 }
 
-class Derivada2:Derivada1{
+class Derivada2:Base{
     public Derivada2(){
         Console.WriteLine("Construtor da classe derivada 2");
     }
