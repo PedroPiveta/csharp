@@ -20,7 +20,7 @@ class Derivada2:Derivada1{
 
 
 
-class Aula38{
+class Aula37{
     static void Main(){ 
         Derivada2 derivada2 = new Derivada2();
     }
