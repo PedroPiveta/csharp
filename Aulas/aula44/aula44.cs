@@ -1,6 +1,6 @@
 using System;
 
-struct Carro{
+struct Carro{ // Uma variável de um tipo struct contém diretamente os dados da estrutura, enquanto uma variável de um tipo de classe contém uma referência aos dados
     public string marca;
     public string modelo;
 
