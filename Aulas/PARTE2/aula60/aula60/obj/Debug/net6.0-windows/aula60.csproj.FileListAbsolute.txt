@@ -1,0 +1,17 @@
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\bin\Debug\net6.0-windows\aula60.exe
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\bin\Debug\net6.0-windows\aula60.deps.json
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\bin\Debug\net6.0-windows\aula60.runtimeconfig.json
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\bin\Debug\net6.0-windows\aula60.dll
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\bin\Debug\net6.0-windows\aula60.pdb
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\obj\Debug\net6.0-windows\aula60.csproj.AssemblyReference.cache
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\obj\Debug\net6.0-windows\aula60.Form1.resources
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\obj\Debug\net6.0-windows\aula60.csproj.GenerateResource.cache
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\obj\Debug\net6.0-windows\aula60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\obj\Debug\net6.0-windows\aula60.AssemblyInfoInputs.cache
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\obj\Debug\net6.0-windows\aula60.AssemblyInfo.cs
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\obj\Debug\net6.0-windows\aula60.csproj.CoreCompileInputs.cache
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\obj\Debug\net6.0-windows\aula60.dll
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\obj\Debug\net6.0-windows\refint\aula60.dll
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\obj\Debug\net6.0-windows\aula60.pdb
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\obj\Debug\net6.0-windows\aula60.genruntimeconfig.cache
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\aula60\aula60\obj\Debug\net6.0-windows\ref\aula60.dll
