@@ -1,6 +1,6 @@
 ﻿namespace aula60
 {
-    partial class Form1
+    partial class F_Principal
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,52 +28,50 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btn_teste = new System.Windows.Forms.Button();
-            this.lb_teste = new System.Windows.Forms.Label();
-            this.tb_nome = new System.Windows.Forms.TextBox();
+            this.btn_texto = new System.Windows.Forms.Button();
+            this.tb_texto = new System.Windows.Forms.TextBox();
+            this.lb_texto = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // btn_teste
+            // btn_texto
             // 
-            this.btn_teste.BackColor = System.Drawing.Color.Black;
-            this.btn_teste.ForeColor = System.Drawing.Color.Red;
-            this.btn_teste.Location = new System.Drawing.Point(82, 112);
-            this.btn_teste.Name = "btn_teste";
-            this.btn_teste.Size = new System.Drawing.Size(89, 46);
-            this.btn_teste.TabIndex = 0;
-            this.btn_teste.Text = "Teste";
-            this.btn_teste.UseVisualStyleBackColor = false;
+            this.btn_texto.BackColor = System.Drawing.Color.Black;
+            this.btn_texto.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btn_texto.ForeColor = System.Drawing.Color.Red;
+            this.btn_texto.Location = new System.Drawing.Point(12, 84);
+            this.btn_texto.Name = "btn_texto";
+            this.btn_texto.Size = new System.Drawing.Size(138, 43);
+            this.btn_texto.TabIndex = 0;
+            this.btn_texto.Text = "OK";
+            this.btn_texto.UseVisualStyleBackColor = false;
+            this.btn_texto.Click += new System.EventHandler(this.btn_texto_Click);
             // 
-            // lb_teste
+            // tb_texto
             // 
-            this.lb_teste.AutoSize = true;
-            this.lb_teste.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lb_teste.Location = new System.Drawing.Point(118, 85);
-            this.lb_teste.Name = "lb_teste";
-            this.lb_teste.Size = new System.Drawing.Size(43, 21);
-            this.lb_teste.TabIndex = 1;
-            this.lb_teste.Text = "wow";
+            this.tb_texto.Location = new System.Drawing.Point(12, 55);
+            this.tb_texto.Name = "tb_texto";
+            this.tb_texto.Size = new System.Drawing.Size(138, 23);
+            this.tb_texto.TabIndex = 1;
             // 
-            // tb_nome
+            // lb_texto
             // 
-            this.tb_nome.Location = new System.Drawing.Point(82, 176);
-            this.tb_nome.Name = "tb_nome";
-            this.tb_nome.Size = new System.Drawing.Size(100, 23);
-            this.tb_nome.TabIndex = 2;
+            this.lb_texto.AutoSize = true;
+            this.lb_texto.Location = new System.Drawing.Point(12, 149);
+            this.lb_texto.Name = "lb_texto";
+            this.lb_texto.Size = new System.Drawing.Size(71, 15);
+            this.lb_texto.TabIndex = 2;
+            this.lb_texto.Text = "blabalbalabl";
             // 
-            // Form1
+            // F_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(603, 401);
-            this.Controls.Add(this.tb_nome);
-            this.Controls.Add(this.lb_teste);
-            this.Controls.Add(this.btn_teste);
-            this.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.Name = "Form1";
-            this.Text = "Curso de C#";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ClientSize = new System.Drawing.Size(556, 346);
+            this.Controls.Add(this.lb_texto);
+            this.Controls.Add(this.tb_texto);
+            this.Controls.Add(this.btn_texto);
+            this.Name = "F_Principal";
+            this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -81,8 +79,8 @@
 
         #endregion
 
-        private Button btn_teste;
-        private Label lb_teste;
-        private TextBox tb_nome;
+        private Button btn_texto;
+        private TextBox tb_texto;
+        private Label lb_texto;
     }
 }

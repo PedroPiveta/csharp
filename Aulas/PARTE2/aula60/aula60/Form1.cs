@@ -1,15 +1,15 @@
 namespace aula60
 {
-    public partial class Form1 : Form
+    public partial class F_Principal : Form
     {
-        public Form1()
+        public F_Principal()
         {
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void btn_texto_Click(object sender, EventArgs e)
         {
-
+            lb_texto.Text = tb_texto.Text;
         }
     }
 }
