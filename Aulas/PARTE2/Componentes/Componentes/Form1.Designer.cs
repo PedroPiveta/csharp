@@ -34,6 +34,7 @@
             this.tb_listaVeiculos = new System.Windows.Forms.TextBox();
             this.btn_limpar = new System.Windows.Forms.Button();
             this.btn_mostrar = new System.Windows.Forms.Button();
+            this.btn_valNum = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn_adcionar
@@ -68,6 +69,7 @@
             this.tb_listaVeiculos.Location = new System.Drawing.Point(12, 55);
             this.tb_listaVeiculos.Multiline = true;
             this.tb_listaVeiculos.Name = "tb_listaVeiculos";
+            this.tb_listaVeiculos.ReadOnly = true;
             this.tb_listaVeiculos.Size = new System.Drawing.Size(275, 216);
             this.tb_listaVeiculos.TabIndex = 3;
             // 
@@ -91,11 +93,22 @@
             this.btn_mostrar.UseVisualStyleBackColor = true;
             this.btn_mostrar.Click += new System.EventHandler(this.btn_mostrar_Click);
             // 
+            // btn_valNum
+            // 
+            this.btn_valNum.Location = new System.Drawing.Point(12, 335);
+            this.btn_valNum.Name = "btn_valNum";
+            this.btn_valNum.Size = new System.Drawing.Size(275, 23);
+            this.btn_valNum.TabIndex = 6;
+            this.btn_valNum.Text = "Valor de num";
+            this.btn_valNum.UseVisualStyleBackColor = true;
+            this.btn_valNum.Click += new System.EventHandler(this.btn_valNum_Click);
+            // 
             // F_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(322, 356);
+            this.ClientSize = new System.Drawing.Size(316, 434);
+            this.Controls.Add(this.btn_valNum);
             this.Controls.Add(this.btn_mostrar);
             this.Controls.Add(this.btn_limpar);
             this.Controls.Add(this.tb_listaVeiculos);
@@ -117,8 +130,9 @@
         private Button btn_adcionar;
         private TextBox tb_veiculo;
         private Label label1;
-        private TextBox tb_listaVeiculos;
         private Button btn_limpar;
         private Button btn_mostrar;
+        private Button btn_valNum;
+        public TextBox tb_listaVeiculos;
     }
 }

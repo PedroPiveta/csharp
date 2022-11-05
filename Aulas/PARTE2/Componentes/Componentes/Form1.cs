@@ -2,9 +2,11 @@ namespace Componentes
 {
     public partial class F_Principal : Form
     {
+        public int num;
         public F_Principal()
         {
             InitializeComponent();
+            num = 0;
         }
 
         private void btn_adcionar_Click(object sender, EventArgs e)
@@ -32,8 +34,13 @@ namespace Componentes
 
         private void btn_mostrar_Click(object sender, EventArgs e)
         {
-            F_Veiculos f_Veiculos = new F_Veiculos(tb_listaVeiculos.Text);
+            F_Veiculos f_Veiculos = new F_Veiculos(tb_listaVeiculos.Text, this);
             f_Veiculos.ShowDialog(); //show dialog não deixa acessar outra janela enquanto essa está aberta
+        }
+
+        private void btn_valNum_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(num.ToString());
         }
     }
 }
