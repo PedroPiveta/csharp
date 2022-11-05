@@ -4,6 +4,12 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="F_CheckBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_CheckedListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="F_Veiculos.cs">
       <SubType>Form</SubType>
     </Compile>

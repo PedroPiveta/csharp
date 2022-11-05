@@ -16,3 +16,5 @@ C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.
 C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.genruntimeconfig.cache
 C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\ref\Componentes.dll
 C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.F_Veiculos.resources
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.F_CheckBox.resources
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.F_CheckedListBox.resources
