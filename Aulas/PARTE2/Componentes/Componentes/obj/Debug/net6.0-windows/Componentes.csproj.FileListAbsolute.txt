@@ -1,0 +1,17 @@
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\bin\Debug\net6.0-windows\Componentes.exe
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\bin\Debug\net6.0-windows\Componentes.deps.json
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\bin\Debug\net6.0-windows\Componentes.runtimeconfig.json
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\bin\Debug\net6.0-windows\Componentes.dll
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\bin\Debug\net6.0-windows\Componentes.pdb
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.csproj.AssemblyReference.cache
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.F_Principal.resources
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.csproj.GenerateResource.cache
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.AssemblyInfoInputs.cache
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.AssemblyInfo.cs
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.csproj.CoreCompileInputs.cache
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.dll
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\refint\Componentes.dll
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.pdb
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.genruntimeconfig.cache
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\ref\Componentes.dll
