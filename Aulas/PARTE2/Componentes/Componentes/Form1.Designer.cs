@@ -33,11 +33,12 @@
             this.label1 = new System.Windows.Forms.Label();
             this.tb_listaVeiculos = new System.Windows.Forms.TextBox();
             this.btn_limpar = new System.Windows.Forms.Button();
+            this.btn_mostrar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn_adcionar
             // 
-            this.btn_adcionar.Location = new System.Drawing.Point(188, 26);
+            this.btn_adcionar.Location = new System.Drawing.Point(212, 25);
             this.btn_adcionar.Name = "btn_adcionar";
             this.btn_adcionar.Size = new System.Drawing.Size(75, 23);
             this.btn_adcionar.TabIndex = 0;
@@ -49,7 +50,7 @@
             // 
             this.tb_veiculo.Location = new System.Drawing.Point(12, 26);
             this.tb_veiculo.Name = "tb_veiculo";
-            this.tb_veiculo.Size = new System.Drawing.Size(170, 23);
+            this.tb_veiculo.Size = new System.Drawing.Size(194, 23);
             this.tb_veiculo.TabIndex = 1;
             // 
             // label1
@@ -67,24 +68,35 @@
             this.tb_listaVeiculos.Location = new System.Drawing.Point(12, 55);
             this.tb_listaVeiculos.Multiline = true;
             this.tb_listaVeiculos.Name = "tb_listaVeiculos";
-            this.tb_listaVeiculos.Size = new System.Drawing.Size(251, 216);
+            this.tb_listaVeiculos.Size = new System.Drawing.Size(275, 216);
             this.tb_listaVeiculos.TabIndex = 3;
             // 
             // btn_limpar
             // 
             this.btn_limpar.Location = new System.Drawing.Point(12, 277);
             this.btn_limpar.Name = "btn_limpar";
-            this.btn_limpar.Size = new System.Drawing.Size(251, 23);
+            this.btn_limpar.Size = new System.Drawing.Size(275, 23);
             this.btn_limpar.TabIndex = 4;
             this.btn_limpar.Text = "Limpar";
             this.btn_limpar.UseVisualStyleBackColor = true;
             this.btn_limpar.Click += new System.EventHandler(this.btn_limpar_Click);
             // 
+            // btn_mostrar
+            // 
+            this.btn_mostrar.Location = new System.Drawing.Point(12, 306);
+            this.btn_mostrar.Name = "btn_mostrar";
+            this.btn_mostrar.Size = new System.Drawing.Size(275, 23);
+            this.btn_mostrar.TabIndex = 5;
+            this.btn_mostrar.Text = "Mostrar Veículos";
+            this.btn_mostrar.UseVisualStyleBackColor = true;
+            this.btn_mostrar.Click += new System.EventHandler(this.btn_mostrar_Click);
+            // 
             // F_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(287, 316);
+            this.ClientSize = new System.Drawing.Size(322, 356);
+            this.Controls.Add(this.btn_mostrar);
             this.Controls.Add(this.btn_limpar);
             this.Controls.Add(this.tb_listaVeiculos);
             this.Controls.Add(this.label1);
@@ -107,5 +119,6 @@
         private Label label1;
         private TextBox tb_listaVeiculos;
         private Button btn_limpar;
+        private Button btn_mostrar;
     }
 }
