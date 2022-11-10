@@ -18,3 +18,4 @@ C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.
 C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.F_Veiculos.resources
 C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.F_CheckBox.resources
 C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.F_CheckedListBox.resources
+C:\Users\Pedrão\Desktop\c#\Aulas\PARTE2\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.F_filhoCheckBox.resources
